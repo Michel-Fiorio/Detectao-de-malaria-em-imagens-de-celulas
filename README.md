@@ -1,5 +1,5 @@
-# Detectao-de-malaria-em-imagens-de-celulas
-Implementação de uma CNN para classificação de células humanas dentre os grupos com malária e sem malária (para estudo).
+# Detecção de malária em imagens de células
+Implementação de uma CNN para classificação de células humanas dentre os grupos com malária e sem malária.
 
 Banco de dados disponível em: https://data.lhncbc.nlm.nih.gov/public/Malaria/cell_images.zip
 
